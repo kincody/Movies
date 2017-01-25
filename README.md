@@ -1,1 +1,1 @@
-# Movies
+To run the project  run the entertainment_center.py file
